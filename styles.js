@@ -15,7 +15,7 @@ export const opening = new StyleSheet.create({
         position: 'absolute',
         top:100
       },
-      button: {
+      button: {                            
         borderStyle: 'solid',
         borderBlockColor: '#000',
         borderWidth: '2',
